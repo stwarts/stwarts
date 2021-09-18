@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @stwarts, I'm from Vietnam
-- 👀 I’m interested in design principles, applying design patterns
-- 💞️ I’m looking to collaborate on Ruby On Rails projects
 - 📫 How to reach me:
 
   - My blog: https://stwarts.github.io/
